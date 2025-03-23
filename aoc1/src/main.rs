@@ -1,6 +1,4 @@
 use std::fs;
-
-
 fn main() {
     let mut veca: Vec<i64> = Vec::new();
     let mut vecb: Vec<i64> = Vec::new();
